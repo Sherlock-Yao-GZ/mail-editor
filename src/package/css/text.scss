@@ -1,0 +1,23 @@
+.mail-editor-content-wrap {
+    position: relative;
+
+    .placeholder {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        font-size: 16px;
+        user-select: none;
+        line-height: 22px;
+        color: #d4d4d4;
+    }
+}
+
+.mail-editor-content {
+    padding: 0 10px;
+    overflow: hidden;
+
+    p {
+        margin: 10px 0;
+        line-height: 1.5;
+    }
+}

@@ -1,0 +1,1 @@
+export const EMPTY_P = '<p data-editor-empty-p=""><br></p>'
